@@ -1,4 +1,4 @@
-# Hi, I'm DiacoS 👋
+# Hi, I'm Diaco Sabir 👋
 
 ## 🚀 About Me
 I am a **4th semester Datamatiker student** with a passion for software development. I have strong experience in **Java** and **JavaScript** and have worked with various technologies, including **HTML, CSS, Unity, and C#**
