@@ -1,7 +1,7 @@
 # Hi, I'm DiacoS 👋
 
 ## 🚀 About Me
-I am a **4th semester Datamatiker student** with a passion for software development. I have strong experience in **Java** and **JavaScript** and have worked with various technologies, including **HTML, CSS, Unity, and C#**.
+I am a **4th semester Datamatiker student** with a passion for software development. I have strong experience in **Java** and **JavaScript** and have worked with various technologies, including **HTML, CSS, Unity, and C#**
 
 ## 🛠 Tech Stack
 ### Programming Languages
