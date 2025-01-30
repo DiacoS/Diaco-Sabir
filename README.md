@@ -18,7 +18,7 @@ I am a **4th semester Datamatiker student** with a passion for software developm
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiacoS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diaco-sabir-2a6ab3192/)
 
 ## 📈 GitHub Stats
 ![DiacoS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiacoS&show_icons=true&theme=dark)
